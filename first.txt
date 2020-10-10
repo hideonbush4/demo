@@ -1,0 +1,13 @@
+git status：查看git状态
+git add first.txt:添加到暂存区
+git add .:添加所有
+git commit -m "first commit":提交到工作区，并添加消息记录
+git push:提交到github
+
+git config --global user.email ****
+git config --global user.name ****
+第一次设置邮箱，姓名
+
+git log:查看操作日志记录
+git show **********************:查看某一条日志
+git reset ***************:删除某一条日志操作，逆序
