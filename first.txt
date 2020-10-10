@@ -11,3 +11,5 @@ git config --global user.name ****
 git log:查看操作日志记录
 git show **********************:查看某一条日志
 git reset ***************:删除某一条日志操作，逆序
+
+git clone git@github.com:hideonbush4/demo.git:下载代码到本地
